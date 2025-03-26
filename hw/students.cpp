@@ -5,4 +5,5 @@ int main(){
     int mathNote[] = {10, 20, 30, 44, 33};
 
     std::cout << "Student IDs:" << std::endl;
+    std::cout << "Math Notes:" << std::endl;
 }
